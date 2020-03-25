@@ -1,5 +1,9 @@
+alert("hi");
 chrome.runtime.onMessage.addListener(function (request) {
-	var x = document.getElementsByClassName("WpHeLc")[0].href;
-	location.replace("https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwik1uL_i5DoAhWzW3wKHVOiAlwQPAgH");
- 	alert(x);
+ 	
+	document.getElementByClassName("VfPpkd-muHVFf-bMcfAe")[0].click();
+	//var x = document.getElementsByClassName("WpHeLc")[0].href;
+	//var y = document.getElementsByClassName("gb_D gb_Oa gb_i")[0].aria-label;
+
+
  })
